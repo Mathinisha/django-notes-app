@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image: "mathinisha/notes-app:latest"
+     image: "mathinisha/notes-app"
      ports :
          - "8000:8000"
